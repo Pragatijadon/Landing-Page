@@ -1,2 +1,2 @@
-# Landing-Page
-landing Page
+# CodeSoft_2
+Project 2 => LANDING PAGE
